@@ -2,7 +2,7 @@
 
 This project is a fully responsive and interactive tech website built with HTML, CSS, and JavaScript in separate files. The site includes product showcases, customer reviews, contact details, animations, and a light/dark mode feature. It is designed to work smoothly across mobile, tablet, and desktop devices.
 
-Features
+# Features
 1. Modern UI
 
 Clean and structured layout
@@ -37,9 +37,9 @@ Organized HTML structure
 
 CSS separated for styling
 
-JavaScript handles all interactions and behaviors
+JavaScript handles all interactions and behaviors <br>
 
-Technologies Used
+# Technologies Used
 
 HTML5
 
